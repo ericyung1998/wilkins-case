@@ -1,6 +1,6 @@
 # wilkins-case
 
-ISOM4540 - Time Series Analysis and Forecasting: Project
+ISOM4540 - Time Series Analysis and Forecasting: Project 1
 - Business case analysis with time series analysis and demand forecasting on Wilkin Regulatory Company
 
 <br>
